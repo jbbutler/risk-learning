@@ -7,11 +7,6 @@ A repository exploring the use of risk-based learning functions to train hazard 
 * `README`
 * `environment.yml`: file with packages used in the `conda` environment
 
-## Interactive Demo
-If you would like to run the contents of `demo.ipynb` in a cloud-based environment, click the Binder badge below:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbbutler/risk-learning/HEAD?urlpath=%2Fdoc%2Ftree%2Fdemo.ipynb)
-
 ## Running it Locally
 
 To run the demo locally, first clone the repository:
