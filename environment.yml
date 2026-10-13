@@ -2,7 +2,7 @@ name: risk-learning
 channels:
   - conda-forge
 dependencies:
-  - python=3.14
+  - python=3.14.0
   - numpy
   - matplotlib
   - scikit-learn
