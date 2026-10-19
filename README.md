@@ -2,8 +2,8 @@
 A repository exploring the use of risk-based learning functions to train hazard emulators via active learning.
 
 ## Authors
-* James Butler
-* Klaus Keller
+* [James Butler](https://www.jbbutler.org/)
+* [Klaus Keller](https://engineering.dartmouth.edu/community/faculty/klaus-keller)
 
 ## Repository Contents
 * `demo.ipynb`: a demo notebook illustrating different sampling priorities for hazards vs. risk-based learning functions in a toy problem.
